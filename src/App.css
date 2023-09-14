@@ -1,7 +1,21 @@
-.App {
+
+
+
+
+
+
+ .App {
   text-align: center;
 }
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  display: inline-block;
+  padding: 10px;
+}
 
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +49,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
